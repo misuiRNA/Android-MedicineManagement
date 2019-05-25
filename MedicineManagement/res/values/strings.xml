@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">敷贴时间管理</string>
+    <string name="cust_name">姓名</string>
+    <string name="cust_tel">电话</string>
+    <string name="cust_id">编号</string>
+    <string name="cust_remark">备注</string>
+    <string name="cust_firstTime">首次用药时间</string>
+    <string name="cust_frequency">频次</string>
+    <string name="cust_total">总贴数</string>
+    <string name="time">2019/01/01</string>
+    <string name="cust_btnok">保存</string>
+    <string name="cust_btncancel">取消</string>
+
+</resources>
